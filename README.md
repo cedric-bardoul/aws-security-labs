@@ -14,7 +14,7 @@ the steps, the checks that prove it works, and the teardown.
 
 | # | Lab | Services | Status |
 |---|---|---|---|
-| 01 | IAM: users, groups, roles and least privilege | IAM | In progress |
+| 01 | [IAM: users, groups, roles and least privilege](lab-01-iam/) | IAM, IAM Identity Center | Done |
 | 02 | Encryption at rest | KMS, S3 | Planned |
 | 03 | Auditing API activity | CloudTrail, S3 | Planned |
 | 04 | Configuration compliance | AWS Config | Planned |
